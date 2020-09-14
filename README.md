@@ -1,2 +1,2 @@
 # QuizApp
- I am useing hrml css js
+ I am useing html css js
